@@ -18,4 +18,4 @@
 
 [twitter]: https://twitter.com/
 [instagram]: https://www.instagram.com/rich_moreno2
-[linkedin]: https://linkedin.com/in/ricardo-moreno-067494237
+[linkedin]: https://www.linkedin.com/in/Ricmoreno2
